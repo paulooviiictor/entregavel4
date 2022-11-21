@@ -1,0 +1,19 @@
+{
+  "name": "entregavel4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
